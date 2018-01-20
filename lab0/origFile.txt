@@ -1,0 +1,20 @@
+Microsoft Patents Ones, Zeroes
+(taken from the onion)
+
+REDMOND, WA—In what CEO Bill Gates called "an unfortunate but
+necessary step to protect our intellectual property from theft and
+exploitation by competitors," the Microsoft Corporation patented the
+numbers one and zero Monday.
+
+With the patent, Microsoft's rivals are prohibited from manufacturing
+or selling products containing zeroes and ones—the mathematical
+building blocks of all computer languages and programs—unless a
+royalty fee of 10 cents per digit used is paid to the software giant.
+
+"Microsoft has been using the binary system of ones and zeroes ever
+since its inception in 1975," Gates told reporters. "For years, in the
+interest of the overall health of the computer industry, we permitted
+the free and unfettered use of our proprietary numeric
+systems. However, changing marketplace conditions and the increasingly
+predatory practices of certain competitors now leave us with no choice
+but to seek compensation for the use of our numerals."
