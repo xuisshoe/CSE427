@@ -27,7 +27,7 @@ by_site = FOREACH grouped {
 }
 
 -- sort the records in ascending order of clickthrough rate
-siteDESC = ORDER by_site BY ctr DESC;
+siteDESC = ORDER by_site BY ctr ASC;
 
 -- show just the first four
 topFour = LIMIT siteDESC 4;
